@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+	
+	<!--  load the properties file -->
+
+	<context:property-placeholder location="classpath:sports.properties"/>
+	
+	<!-- Define your beans here -->
+	<!-- Add a logger config to see logging messages. - For more detailed logs, 
+		set values to "FINEST" - For info on logging levels, see: http://www.vogella.com/tutorials/Logging/article.html -->
+	<bean id="myLoggerConfig"
+		class="com.luv2code.springdemo.MyLoggerConfig"
+		init-method="initLogger">
+		<property name="rootLoggerLevel" value="FINE" />
+		<property name="printedLoggerLevel" value="FINE" />
+	</bean>
+
+	<bean id="myFortune"
+		class="com.luv2code.springdemo.HappyFortuneService">
+	</bean>
+	<bean id="myCoach" class="com.luv2code.springdemo.TrackCoach">
+		<!-- setup constructor injection -->
+		<constructor-arg ref="myFortune"></constructor-arg>
+	</bean>
+	<bean id="yourCoach" class="com.luv2code.springdemo.BaseBallCoach"></bean>
+	<bean id="ourCoach"
+		class="com.luv2code.springdemo.VolleyBallCoach"></bean>
+		<bean id="myCricketCoach" class="com.luv2code.springdemo.CricketCoach">
+		<!-- set up setter injection -->
+		<property name="fortuneService" ref="myFortune"></property>
+		</bean>
+		
+		<bean id="myHockeyCoach" class="com.luv2code.springdemo.HockeyCoach">
+		<!-- set up literal injection -->
+		<!--  <property name="emailAddress" value="thebestcodecoach@luv2code.com"></property>
+		<property name="teamName" value="Sunrisers Hyderabad"></property>-->
+		<property name="emailAddress" value="${anyemail}"></property>
+		<property name="teamName" value="${anyteam}"></property>
+		</bean>
+		<!-- inject literal values -->
+		
+	
+
+</beans>
+
+
+
+
+
