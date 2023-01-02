@@ -1,0 +1,9 @@
+package com.luv2code.cruddemo.rest;
+
+public class EmployeeRestController {
+
+	public EmployeeRestController() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

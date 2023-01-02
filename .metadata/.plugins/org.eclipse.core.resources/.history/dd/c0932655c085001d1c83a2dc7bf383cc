@@ -1,0 +1,9 @@
+package com.luv2code.cruddemo.entity;
+
+public class Employee {
+
+	public Employee() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

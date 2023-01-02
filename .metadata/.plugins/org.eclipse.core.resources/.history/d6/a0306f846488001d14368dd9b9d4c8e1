@@ -1,0 +1,8 @@
+#
+# The URL for the CRM REST API
+# - update to match your local environment
+#
+application.port = 8081
+crm.rest.url=http://localhost:8080/spring-crm-rest/api/customers
+
+#crm.rest.url=http://localhost:8080/crm-web-app-rest-client-demo/customer/list

@@ -1,0 +1,5 @@
+package com.employeecourse.practice.entity;
+
+public class Course {
+
+}

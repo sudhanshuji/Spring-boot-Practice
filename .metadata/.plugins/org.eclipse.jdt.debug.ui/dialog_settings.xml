@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0" value="74"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1" value="800"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2" value="82"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn" value="1"/>
+	<section name="expressionHistory">
+	</section>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item key="WIDTH" value="614"/>
+		<item key="HEIGHT" value="194"/>
+		<item key="SashWeightTree" value="500"/>
+		<item key="SashWeightDetails" value="500"/>
+	</section>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=hibernate-tutorial/lib\/antlr-2.7.7.jar&amp;lt;antlr.debug.misc(ASTFrame.class[ASTFrame&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=hb-03-one-to-many/lib\/antlr-2.7.7.jar&amp;lt;antlr.debug.misc(ASTFrame.class[ASTFrame&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=spring-demo-annotations/src&amp;lt;com.luv2code.springdemo{AnnotationBeanScopeDemoApp.java[AnnotationBeanScopeDemoApp&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=spring-demo-annotations/src&amp;lt;com.luv2code.springdemo{AnnotationDemoApp.java[AnnotationDemoApp&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=spring-demo-annotations/src&amp;lt;com.luv2code.springdemo{JavaConfigDemoApp.java[JavaConfigDemoApp&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=spring-demo-one/src&amp;lt;com.luv2code.springdemo{HelloSpringApp.java[HelloSpringApp&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=mycoolapp/src\/main\/java&amp;lt;com.luv2code.springboot.demo.mycoolapp{MycoolappApplication.java[MycoolappApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=03-actuator-demo/src\/main\/java&amp;lt;com.luv2code.springboot.demo.mycoolapp{MycoolappApplication.java[MycoolappApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=05-properties-demo/src\/main\/java&amp;lt;com.luv2code.springboot.demo.mycoolapp{MycoolappApplication.java[MycoolappApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=cruddemo/src\/main\/java&amp;lt;com.luv2code.cruddemo{CruddemoApplication.java[CruddemoApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=22-jpa-cruddemo/src\/main\/java&amp;lt;com.luv2code.cruddemo{CruddemoApplication.java[CruddemoApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=23-spring-data-jpa-cruddemo/src\/main\/java&amp;lt;com.luv2code.cruddemo{CruddemoApplication.java[CruddemoApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=24-spring-data-rest-cruddemo/src\/main\/java&amp;lt;com.luv2code.cruddemo{CruddemoApplication.java[CruddemoApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=21-hibernate-with-service-demo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.luv2code.cruddemo{CruddemoApplication.java[CruddemoApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="519"/>
+			<item key="DIALOG_Y_ORIGIN" value="22"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="conditionHistory">
+	</section>
+</section>

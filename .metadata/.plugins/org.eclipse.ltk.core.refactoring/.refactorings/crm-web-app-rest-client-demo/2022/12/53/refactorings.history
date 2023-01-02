@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 6 elements from project &apos;crm-web-app-rest-client-demo&apos;&#x0D;&#x0A;- Original project: &apos;crm-web-app-rest-client-demo&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     crm-web-app-rest-client-demo&#x0D;&#x0A;     generated-sources&#x0D;&#x0A;     m2e-wtp&#x0D;&#x0A;     maven-archiver&#x0D;&#x0A;     maven-status&#x0D;&#x0A;     crm-web-app-rest-client-demo.war" description="Delete elements" element1="target/maven-archiver" element2="target/generated-sources" element3="target/maven-status" element4="target/m2e-wtp" element5="target/crm-web-app-rest-client-demo.war" element6="target/crm-web-app-rest-client-demo" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="6" stamp="1672419434078" subPackages="false" version="1.0"/>
+</session>

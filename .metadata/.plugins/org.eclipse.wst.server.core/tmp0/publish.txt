@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Dec 30 22:43:58 IST 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\saura\\.m2\\repository\\org\\springframework\\spring-web\\5.1.7.RELEASE\\spring-web-5.1.7.RELEASE.jar=WEB-INF/lib/spring-web-5.1.7.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\saura\\.m2\\repository\\org\\springframework\\spring-web\\5.0.6.RELEASE\\spring-web-5.0.6.RELEASE.jar=WEB-INF/lib/spring-web-5.0.6.RELEASE.jar

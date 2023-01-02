@@ -1,0 +1,14 @@
+management.endpoints.web.exposure.include=health,info
+management.info.env.enabled=true
+info.app.name=My super cool app
+info.app.description=A Crazy Fun App, Yoohoo!!
+info.app.version=1.0.0
+
+#Use wildcard '*' to expose all endpoints
+#can also expose individual endpoint with comma delimited list
+
+management.endpoints.web.exposure.include=*
+
+
+#exclude individual endpoint with comma delimited list
+management.endpoints.web.exposure.exclude=health,info

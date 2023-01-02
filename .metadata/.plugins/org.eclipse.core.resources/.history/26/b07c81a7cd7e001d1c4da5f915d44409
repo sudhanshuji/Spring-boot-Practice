@@ -1,0 +1,15 @@
+package com.employeecourse.practice.entity;
+
+
+
+public class Employee {
+	
+	
+	private int id;
+	
+	private String empName;
+	
+	private String jobLevel;
+	
+	
+}

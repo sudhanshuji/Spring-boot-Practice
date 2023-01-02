@@ -1,0 +1,19 @@
+package com.luv2code.cruddemo.dao;
+
+import java.util.List;
+
+import com.luv2code.cruddemo.entity.Employee;
+
+public class EmployeeDaoHibernateImpl implements EmployeeDAO {
+
+	public EmployeeDaoHibernateImpl() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public List<Employee> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

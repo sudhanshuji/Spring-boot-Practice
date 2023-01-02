@@ -1,0 +1,4 @@
+127.0.0.1 - - [30/Dec/2022:22:44:23 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [30/Dec/2022:22:44:26 +0530] "GET /crm-web-app-rest-client-demo/ HTTP/1.1" 302 -
+127.0.0.1 - - [30/Dec/2022:22:44:27 +0530] "GET /spring-crm-rest/api/customers HTTP/1.1" 200 643
+0:0:0:0:0:0:0:1 - - [30/Dec/2022:22:44:29 +0530] "GET /crm-web-app-rest-client-demo/customer/list HTTP/1.1" 200 5952

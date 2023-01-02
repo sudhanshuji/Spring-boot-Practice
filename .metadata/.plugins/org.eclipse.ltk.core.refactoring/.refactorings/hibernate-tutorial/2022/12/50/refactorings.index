@@ -1,0 +1,8 @@
+1670576554354	Rename type 'TestJDBC'
+1670576763465	Rename local variable 'jdbcurl'
+1670587920653	Rename local variable 'session1'
+1670589150771	Copy compilation unit
+1670589610966	Extract method 'displayStudents'
+1670593152181	Copy compilation unit
+1670596155492	Copy compilation unit
+1670596170257	Rename type 'updateStudentDemo'
